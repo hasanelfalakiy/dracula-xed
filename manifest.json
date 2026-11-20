@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/theme-manifest.json",
+  "id": "com.andihasan.draculaxed",
+  "name": "Dracula Xed",
+  "version": "1.0.0",
+  "description": "Dracula theme for Xed-Editor: dark background #282a36 with typical Dracula accents of purple, pink, and cyan, covering the interface, editor, and terminal.",
+  "type": "theme",
+  "author": {
+    "displayName": "Andi Hasan"
+  },
+  "repository": "https://github.com/hasanelfalakiy/dracula-xed",
+  "license": "MIT",
+  "tags": ["dark", "dracula", "purple"],
+  "minAppVersion": 88,
+  "inheritBase": false
+}
