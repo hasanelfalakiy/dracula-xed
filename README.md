@@ -75,8 +75,8 @@ Setiap mode (`light`, `dark`) memiliki empat bagian:
 
 | Field | Nilai | Keterangan |
 |---|---|---|
-| `id` | `com.andi.dracula` | Wajib format *reverse-domain* huruf kecil (`a.b.c`) |
-| `name` | `Dracula` | Nama tema di Store |
+| `id` | `com.andihasan.draculaxed` | Wajib format *reverse-domain* huruf kecil (`a.b.c`) |
+| `name` | `Dracula Xed` | Nama tema di Store |
 | `minAppVersion` | `88` | Versi minimum Xed-Editor |
 | `inheritBase` | `false` | Seluruh `tokenColors` didefinisikan sendiri, tidak mewarisi tema dasar |
 
@@ -86,7 +86,7 @@ Setiap mode (`light`, `dark`) memiliki empat bagian:
 node build.js
 ```
 
-Menghasilkan `output/com.andi.dracula.xed` (ZIP berisi `theme.json`, `manifest.json`, dan `README.md`).
+Menghasilkan `output/com.andihasan.draculaxed.xed` (ZIP berisi `theme.json`, `manifest.json`, dan `README.md`).
 
 **Instal lokal:** Xed-Editor → **Settings → Store → Install from storage** → pilih berkas `.xed`.
 
